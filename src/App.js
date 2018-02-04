@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       Hallo Welt das ist der nächste version
+       Hallo Welt das ist der version
       </div>
     );
   }
