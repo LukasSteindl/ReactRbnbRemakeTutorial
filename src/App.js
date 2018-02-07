@@ -43,6 +43,7 @@ class App extends Component {
     }
     return (
       <div className="app">
+      <h1>hi!</h1>
         <div className="main">
           <div className="search"></div>
           <div className="flats">
